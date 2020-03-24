@@ -60,10 +60,10 @@ sections:
 - type: section_cta
   template: section_cta
   section_id: call-to-action
-  title: This Is Call To Action Block!
-  subtitle: This is an optional description for the call to action block.
+  title: Reserva tu consulta ahora!
+  subtitle: Consulta con nosotros para determinar como podemos ayudar a tu institución.
   actions:
-  - label: Get Started
+  - label: Empieza ahora
     url: "/signup"
 - type: section_posts
   template: section_posts
