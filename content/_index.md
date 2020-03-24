@@ -53,10 +53,10 @@ sections:
     avatar: images/review2.jpg
     content: Desde que se digitalizaron los procesos administrativos en nuestra escuela,
       nuestro tiempo de resolución se disminuyó  de 3 días a una hora.
-  - author: Richard Roe
+  - author: Estéban Ramírez
     avatar: images/review3.jpg
-    content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
-      et malesuada fames ac ante ipsum primis in faucibus.
+    content: Nuestra conexión directa con el SAT nos ahorra mucho tiempo a la hora
+      de facturación.
 - type: section_cta
   template: section_cta
   section_id: call-to-action
