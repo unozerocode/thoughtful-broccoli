@@ -30,13 +30,13 @@ sections:
     actions:
     - label: Order Now
       url: "/signup"
-  - title: Enterprise
-    price: "$149/m"
+  - title: Universitario
+    price: "$10,000 MXP / Mes"
     details: |-
-      * Vestibulum non eros quis
-      * Aenean iaculis lorem
-      * Mauris eleifend sapien
-      * Phasellus lobortis risus
+      * Sitio Web
+      * Chatbot de servicio al estudiante
+      * Configuración de equpo de transmisión de video
+      * Soporte técnico en sitio
     actions:
     - label: Order Now
       url: "/signup"
