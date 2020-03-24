@@ -44,15 +44,15 @@ sections:
 - type: section_faq
   template: section_faq
   section_id: faq
-  title: Frequently Asked Questions
-  subtitle: Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.
+  title: Preguntas Frequientes
+  subtitle: Respuestas a preguntas que escuchamos frequentemente.
   bg: gray
   faqitems:
-  - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
-    answer: Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-      tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus mollis feugiat.
-      Praesent nibh libero, placerat et justo at, luctus tristique enim. Pellentesque
-      habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+  - question: Es posible aprender via conexión remota?
+    answer: Claro que sí. Con video en tiempo real, chat, y distribución de material
+      digital, el estudiante tiene todo lo que necesita para interactuar con el maestro
+      y sus compañeros. La tecnología digital permite todas las funciones que antes
+      se llevaban a cabo en instituciones físicas.
   - question: Aliquam eget purus ante?
     answer: 'Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
       eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque eget velit. '
