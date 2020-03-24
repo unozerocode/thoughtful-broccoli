@@ -4,21 +4,19 @@ sections:
 - type: section_content
   template: section_content
   section_id: features
-  title: The Best Features of Your Services
+  title: Nuestros Servicios
   content: |-
-    Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum consectetur lobortis.
+    Contamos con personal capacitado para la instalación y mantenimiento de tus sistemas de informática.
 
-    * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    * Ut eu nunc at diam fringilla fringilla eu ut massa.
-    * Phasellus ut enim non lorem venenatis rutrum.
+    * Instalación de servidores
+    * Habilitación de equipo de transmisión de radio y TV
+    * Mantenimiento de equipo de cómputo
 
-    Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor sed justo tempor condimentum.
+    Nosotros nos encargamos de tu cadena de logística digital, desde la administración de tu institución, hasta el acceso al sistema por dispositivo estudiantil.
   image: images/feature1.png
   bg: gray
   actions:
-  - label: Free Trial
-    url: "/signup"
-  - label: View Demo
+  - label: View Demonstracón
     url: "#"
 - type: section_cta
   template: section_cta
