@@ -25,9 +25,8 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
+  - title: Video en tiempo real
+    content: Video transmitido en tiempo real del maestro a los estudiantes.
     image: images/feature2.png
     actions:
     - label: Learn More
