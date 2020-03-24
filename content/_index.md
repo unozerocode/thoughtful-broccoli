@@ -29,8 +29,8 @@ sections:
     content: Video transmitido en tiempo real del maestro a los estudiantes.
     image: "/images/virtualclassvideo.jpg"
     actions:
-    - label: Learn More
-      url: "/features"
+    - label: Saber más
+      url: "/video"
   - title: Chat y distribución de materiales
     content: Chat en tiempo real entre maestro y estudiantes, así como distribución
       de exámenes, documentos,, y biblioteca digital.
