@@ -53,9 +53,10 @@ sections:
       digital, el estudiante tiene todo lo que necesita para interactuar con el maestro
       y sus compañeros. La tecnología digital permite todas las funciones que antes
       se llevaban a cabo en instituciones físicas.
-  - question: Aliquam eget purus ante?
-    answer: 'Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-      eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque eget velit. '
+  - question: Que pasa si el estudiante no tiene internet?
+    answer: Las clases se pueden grabar digitalmente y distribuir a través de un dispositivo
+      USB, para que el estudiante reproduzca los videos y tenga acceso al material
+      educativo.
   - question: Sed scelerisque in ipsum eu sollicitudin?
     answer: Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac dignissim
       nisi mollis eget. Ut vitae nisi sit amet nisi suscipit dictum faucibus eget
