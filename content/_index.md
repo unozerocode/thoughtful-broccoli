@@ -27,7 +27,7 @@ sections:
       url: "/features"
   - title: Video en tiempo real
     content: Video transmitido en tiempo real del maestro a los estudiantes.
-    image: images/feature2.png
+    image: "/images/virtualclassvideo.jpg"
     actions:
     - label: Learn More
       url: "/features"
