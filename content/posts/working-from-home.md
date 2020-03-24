@@ -3,8 +3,7 @@ title: Las Ventajas y Desventajas de trabajar desde tu casa
 date: 2019-04-22
 thumb_img_path: images/9_thumb.jpg
 img_path: images/9.jpg
-excerpt: Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+excerpt: Trabajando en casa presenta ventas y retos para los empleados y la empresa.
 layout: post
 subtitle: ''
 
