@@ -57,13 +57,10 @@ sections:
     answer: Las clases se pueden grabar digitalmente y distribuir a través de un dispositivo
       USB, para que el estudiante reproduzca los videos y tenga acceso al material
       educativo.
-  - question: Sed scelerisque in ipsum eu sollicitudin?
-    answer: Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac dignissim
-      nisi mollis eget. Ut vitae nisi sit amet nisi suscipit dictum faucibus eget
-      magna. Vivamus in hendrerit magna, non pellentesque metus. Morbi orci odio,
-      dictum at efficitur sit amet, luctus in ipsum. Nunc pellentesque mi vel dui
-      vulputate, a lobortis lacus venenatis. Phasellus pellentesque dolor id feugiat
-      faucibus. Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+  - question: Cómo se llevan a cabo los exámenes en una clase virtual?
+    answer: 'A través de formularios en web y también en consulta directa con los
+      maestros de la clase. Todo depende del tipo de clase y la cantidad de estudiantes
+      participando. '
 layout: landing
 menu:
   main:
