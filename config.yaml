@@ -4,12 +4,12 @@ baseURL: "/"
 params:
   palette: blue
   header:
-    title: Azimuth
-    logo_img: images/logo.png
+    title: Tecnologías México
+    logo_img: "/images/tmx-1.jpg"
     has_nav: true
     menu:
       actions:
-      - label: Sign Up
+      - label: Empezar
         url: "/signup"
   footer:
     logo_img: images/logo_alt.png
