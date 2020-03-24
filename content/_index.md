@@ -49,11 +49,10 @@ sections:
     avatar: images/review1.jpg
     content: Nuestra institución funciona con más eficiencia gracias a facturación
       electrónica y puntos de venta distribuidos.
-  - author: Jane Roe
+  - author: María de la Luz
     avatar: images/review2.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
+    content: Desde que se digitalizaron los procesos administrativos en nuestra escuela,
+      nuestro tiempo de resolución se disminuyó  de 3 días a una hora.
   - author: Richard Roe
     avatar: images/review3.jpg
     content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
