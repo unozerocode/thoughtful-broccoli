@@ -21,10 +21,10 @@ sections:
 - type: section_cta
   template: section_cta
   section_id: call-to-action
-  title: This Is Call to Action Block!
-  subtitle: This is an optional description for the call to action block.
+  title: Llama ahora para realizar una consulta
+  subtitle: Contactanos para saber como podemos ayudar con tus sistemas de T.I.
   actions:
-  - label: Get Started
+  - label: Empieza
     url: "#"
 layout: landing
 menu:
