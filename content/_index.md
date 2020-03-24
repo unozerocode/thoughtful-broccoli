@@ -41,15 +41,14 @@ sections:
 - type: section_reviews
   template: section_reviews
   section_id: reviews
-  title: Testimonials
-  subtitle: 'Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-    semper libero id sodales. '
+  title: Testimonios
+  subtitle: Clientes satisfechos con Tecnologías México
   bg: white
   reviews:
-  - author: John Doe
+  - author: Javier Marquez
     avatar: images/review1.jpg
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+    content: Nuestra institución funciona con más eficiencia gracias a facturación
+      electrónica y puntos de venta distribuidos.
   - author: Jane Roe
     avatar: images/review2.jpg
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
