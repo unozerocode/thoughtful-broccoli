@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Inicio
 sections:
 - type: section_hero
   template: section_hero
@@ -13,15 +13,14 @@ sections:
     url: ''
 - type: section_features
   template: section_features
-  section_id: features
-  title: Features
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  section_id: caracteristicas
+  title: Características
+  subtitle: Funciones del sistema
   bg: gray
   featureslist:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
+  - title: Multiplataforma
+    content: El sistema de educación digital funciona en todos tus dispositivos, de
+      Windows, Mac, Linux y smartphone de Android y iOS
     image: images/feature1.png
     actions:
     - label: Learn More
