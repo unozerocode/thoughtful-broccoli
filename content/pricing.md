@@ -18,14 +18,14 @@ sections:
     - label: Order Now
       url: "/signup"
     highlight: false
-  - title: Professional
-    price: "$49/m"
+  - title: Profesional
+    price: "$5000 MXP / Mes"
     details: |-
-      * Curabitur non nunc mollis
-      * Duis a purus nec ligula
-      * Pellentesque sit amet
-      * Fusce tempus mi vitae
-      * Nullam sollicitudin ante
+      * Página Web
+      * Integración de Sistemas Administrativos
+      * Configuración de equipo de transmisíón de video
+      * Software de Clases en Linea
+      * Soporte Técnico en su sitio
     highlight: true
     actions:
     - label: Order Now
